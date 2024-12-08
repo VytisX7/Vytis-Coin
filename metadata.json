@@ -1,0 +1,14 @@
+{
+  "name": "Vytis Coin",
+  "symbol": "VYTIS",
+  "description": "Vytis Coin yra unikali kriptovaliuta, įkvėpta Lietuvos paveldo.",
+  "image": "https://raw.githubusercontent.com/VytisX7/Vytis-Coin/refs/heads/main/7899a594-f660-48fc-94fb-e861991772c3.webp",
+  "external_url": "https://example.com", 
+  "attributes": [
+    {
+      "trait_type": "Tokeno tipas",
+      "value": "Kriptovaliuta"
+    }
+  ]
+}
+ 
